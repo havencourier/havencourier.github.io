@@ -1,0 +1,27 @@
+<svg id="text_cl" data-name="text cl" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 25px;
+        font-family: "Visby CF";
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+
+      .cls-1 {
+        fill: #170ba2;
+      }
+
+      .cls-2 {
+        fill: #eeb405;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="Haven" class="cls-1" transform="translate(3.691 50.576) scale(1.085)">Haven</text>
+  <text id="Courier" class="cls-2" transform="translate(3.074 75.133) scale(0.858)">Courier</text>
+  <path class="cls-3" d="M89.072,23.457v0.718H87.594V27.8H86.678V24.175h-1.46V23.457h3.854ZM94.064,27.8l-0.17-2.552c-0.017-.335-0.017-0.734-0.034-1.212h-0.05c-0.119.383-.255,0.893-0.391,1.292l-0.832,2.409H91.635L90.82,25.26c-0.085-.319-0.238-0.845-0.34-1.228H90.43c0,0.4-.017.829-0.034,1.212L90.226,27.8H89.344l0.339-4.339h1.392l0.781,2.122a9.281,9.281,0,0,1,.306,1.1H92.2c0.1-.383.22-0.766,0.305-1.069l0.8-2.154h1.341L94.98,27.8H94.064Z"/>
+</svg>
