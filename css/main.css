@@ -1,0 +1,74 @@
+
+/*html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices
+}*/
+
+.space-scroll-up{
+  margin-bottom: 100px; /*Move scroll up button up*/
+}
+
+/* fixed scrolling images */
+.bg-fixed-img-1 {
+    width: 100%;
+    height: 200px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../images/bg-fixed-img-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: all 1s ease-in-out;
+  }
+  
+  .bg-fixed-img-2 {
+    width: 100%;
+    height: 200px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../images/bg-fixed-img-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: all 1s ease-in-out;
+  }
+  
+  .bg-fixed-img-3 {
+    width: 100%;
+    height: 200px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../images/bg-fixed-img-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: all 1s ease-in-out;
+  }
+  
+  .bg-fixed-img-4 {
+    width: 100%;
+    height: 200px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../images/bg-fixed-img-4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: all 1s ease-in-out;
+  }
+  
+  /*.bg-fixed-img-5 {
+    width: 100%;
+    height: 200px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../img/gracekalu-photo4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: all 1s ease-in-out;
+  }*/
+  
+/* End fixed scrolling images */
+
+  

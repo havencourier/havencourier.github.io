@@ -1,0 +1,45 @@
+Accent Red color #eb0028
+accent new color yellow #FFC829 or #fdbf04
+
+Shipper old bg: rgba(235, 0, 40, 0.9)
+
+Shipper new bg: rgba(9, 4, 68, 0.9) or  #090444
+
+Masking an image especially png with color
+
+.icon {
+  width: 24px;  /* Adjust size as needed */
+  height: 24px; /* Adjust size as needed */
+  background-color: blue; /* The desired blue color */
+  -webkit-mask-image: url("path/to/your/icon.png"); /* Safari */
+  mask-image: url("path/to/your/icon.png");
+  -webkit-mask-size: contain; /* or cover, auto, etc. - Experiment! */
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat; /* Safari */
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center; /* Safari */
+  mask-position: center;
+}
+
+.image {
+	position:relative;
+	width:106px;
+	height:7px;
+	margin-top:8px !important;
+	margin-bottom:6px;
+	/* background:url(../images/icons/separater-blue.png) no-repeat;
+	width: 24px;  /* Adjust size as needed */
+  /* height: 24px; Adjust size as needed */ 
+  background-color: red; /* The desired blue color */
+  -webkit-mask-image: url("../images/icons/separater-blue.png"); /* Safari */
+  mask-image: url("../images/icons/separater-blue.png");
+  -webkit-mask-size: contain; /* or cover, auto, etc. - Experiment! */
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat; /* Safari */
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center; /* Safari */
+  mask-position: center;
+	
+}
+
+
